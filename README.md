@@ -1,27 +1,26 @@
-# package_name
+# utm2pl
 
 Description. 
-The package package_name is used to:
-	- 
+The package utm2pl is used to transform any utm coordinates from a csv file into a georeferenced polygon of these coordinates in json extension. This way it can be used in projects in QGIS, ArcGIS or similar.
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install utm2pl
 
 ```bash
-pip install package_name
+pip install utm2pl
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from utm2pl import file1_name
 file1_name.my_function()
 ```
 
 ## Author
-My_name
+Danilo Castro
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
