@@ -1,8 +1,8 @@
 # utm2pl
 
-Description. 
+Description.
+
 The package utm2pl is used to transform any utm coordinates from a csv file into a georeferenced polygon of these coordinates in json extension. This way it can be used in projects in QGIS, ArcGIS or similar.
-	-
 
 ## Installation
 
